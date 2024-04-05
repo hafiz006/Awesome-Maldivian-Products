@@ -15,3 +15,6 @@ ToC
 
 ## AI
 - [Kamana](kamana.ai/) : AI Assistance
+
+## Religious
+- [Dhivehi Siyarat Player](https://play.google.com/store/apps/details?id=com.fflearn.siyarat) : Keerithi Rasoolaage Siyarath
